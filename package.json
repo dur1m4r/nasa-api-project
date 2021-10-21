@@ -1,0 +1,14 @@
+{
+    "name": "nasa-api-project",
+    "version": "1.0.0",
+    "description": "Astronomy Picture of a Day",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Vladimir Titov",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
